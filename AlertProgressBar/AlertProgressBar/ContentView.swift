@@ -20,7 +20,7 @@ struct ContentView: View {
                     showAlert.toggle()
                     Task {
                         for _ in 1...1000 {
-                            try? await Task.sleep(for: .seconds(0.01))
+                            try? await Task.sleep(for: .seconds(0.001))
                             progress += 0.001
                             if progress >= 1 {
                                 showAlert = false
