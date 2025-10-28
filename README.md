@@ -6,6 +6,6 @@ While the Alert is a standard SwiftUI component, the progress bar is a UIKit ele
 
 Built for iOS 26 but should work with lower versions of iOS.
 
-![](ProgressAlert.mp4) 
+![](ProgressAlert.mov) 
 
 From a demo by [Kavsoft](https://youtu.be/6p2syzm0Wuo?si=8IIBIZx2sfY38Lxb)
